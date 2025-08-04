@@ -1,3 +1,7 @@
+**The repository has been moved.**
+
+**https://github.com/nebius/helmrelease-trigger-operator**
+
 # HelmRelease Trigger Operator
 
 A Kubernetes controller that automatically triggers HelmRelease reconciliation when associated ConfigMaps are updated, enabling seamless configuration-driven GitOps workflows.
